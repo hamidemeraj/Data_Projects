@@ -35,3 +35,16 @@ y_predicted_PLR = LR.predict(X_test)
 
 # Evaluate Model
 R2 = r2_score(y_test, y_predicted_PLR)
+
+
+
+
+
+
+
+
+
+
+
+
+
